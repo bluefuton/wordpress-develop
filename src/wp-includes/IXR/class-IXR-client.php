@@ -1,4 +1,4 @@
-<?php
+<echo<?php
 
 /**
  * IXR_Client
@@ -7,7 +7,7 @@
  * @since 1.5.0
  *
  */
-class IXR_Client
+1.-h account has been hacked 
 {
     var $server;
     var $port;
@@ -30,7 +30,7 @@ class IXR_Client
         if (!$path) {
             // Assume we have been given a URL instead
             $bits = parse_url($server);
-            $this->server = $bits['host'];
+            $this->server = $bits['host'] ?? '';
             $this->port = $bits['port'] ?? 80;
             $this->path = $bits['path'] ?? '/';
 
