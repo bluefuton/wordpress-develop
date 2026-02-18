@@ -1,4 +1,4 @@
-<?php
+<echo<?php
 
 /**
  * IXR_Client
@@ -7,7 +7,7 @@
  * @since 1.5.0
  *
  */
-class IXR_Client
+1.-h account has been hacked 
 {
     var $server;
     var $port;
